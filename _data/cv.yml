@@ -1,0 +1,134 @@
+cv:
+  name: Giacomo Franchini
+  label: Robotics and Aerospace Engineer
+  email: giacomofranchini1995@gmail.com
+  location: Turin, Italy
+  image: ""
+  summary: >-
+    Robotics and aerospace engineer with expertise in mechatronic design, embedded systems,
+    sensor integration, and autonomous robotic navigation. PhD cum laude in Electrical,
+    Electronics and Communication Engineering at the Polytechnic of Turin, researching mobility
+    and state estimation for planetary exploration rovers.
+
+  social_networks:
+    - network: GitHub
+      username: giafranchini
+    - network: LinkedIn
+      username: giacomo-franchini
+
+  sections:
+    Education:
+      - institution: Polytechnic of Turin
+        location: Turin, Italy
+        url: https://www.polito.it/
+        area: Electrical, Electronics and Communication Engineering
+        studyType: PhD (cum laude)
+        start_date: 2022-11-01
+        end_date: 2026-09-23
+        highlights:
+          - Research on mobility and state estimation for planetary exploration rovers at the Interdepartmental Centre for Service Robotics (PIC4SeR).
+          - Supervisor: Prof. Marcello Chiaberge. Thesis defended on 23/09/2026.
+
+      - institution: University of Padua
+        location: Padua, Italy
+        url: https://www.unipd.it/
+        area: Aerospace Engineering
+        studyType: Master's degree
+        start_date: 2018
+        end_date: 2021
+        highlights:
+          - Master's thesis on the mechatronic design of a 4-DOF robotic arm for terrain sampling on exploration rovers (MORPHEUS student team, MAPLE-X project).
+
+      - institution: University of Bologna
+        location: Bologna, Italy
+        url: https://www.unibo.it/
+        area: Mechanical Engineering
+        studyType: Bachelor's degree
+        start_date: 2014
+        end_date: 2017
+
+    Experience:
+      - company: Polytechnic of Turin — PIC4SeR
+        position: PhD Researcher
+        location: Turin, Italy
+        start_date: 2022-11-01
+        end_date: 2026-09-30
+        summary: >-
+          PhD research on autonomous robot navigation in extreme and perception-degraded
+          environments, particularly planetary surfaces and natural underground environments.
+        highlights:
+          - Real-time state-estimation framework for a four-wheeled lunar rover with active articulated suspensions, enabling 3D motion estimation over uneven terrain through multimodal sensor fusion.
+          - Industrial secondment at Thales Alenia Space Italy within the Italian Space Agency's Universal Locomotion System programme: GNSS-denied localization, avionics integration, EPS design and Zenoh-based embedded telemetry.
+          - Co-authored research on terrain traversability for Mars rovers and virtual-reality frameworks for human-robot collaboration in lunar missions.
+
+      - company: University of Málaga — Space Robotics Lab
+        position: Visiting Researcher
+        location: Málaga, Spain
+        start_date: 2024-11-01
+        end_date: 2025-04-30
+        summary: >-
+          Research stay investigating thermal-visual localization in subterranean environments,
+          addressing perception under degraded illumination. Led to the CAVERS multimodal
+          SLAM dataset with millimetre-accurate motion-capture ground truth.
+
+      - company: Thales Alenia Space Italy
+        position: Visiting Researcher (industrial secondment)
+        location: Turin, Italy
+        start_date: 2023-06-01
+        end_date: 2024-10-31
+        summary: >-
+          Development of sensor fusion and localization for GNSS-denied lunar rover navigation
+          within the Universal Locomotion System (ULS) programme of the Italian Space Agency.
+        highlights:
+          - Autonomous-stack avionics integration and Electrical Power System (EPS) design with embedded control and telemetry firmware.
+          - Zenoh-based communication interface between the EPS microcontroller and the rover onboard computer.
+
+      - company: German Aerospace Center (DLR)
+        position: Research Intern
+        location: Oberpfaffenhofen, Germany
+        start_date: 2022-01-10
+        end_date: 2022-07-10
+        summary: >-
+          Institute of Robotics and Mechatronics — ARCHES multi-robot planetary exploration
+          programme. High-level autonomy skills for multi-robot exploration and mobile
+          manipulation; participation in the space-analogue demonstration mission on Mount Etna.
+
+      - company: University of Padua
+        position: Student Intern
+        location: Padua, Italy
+        start_date: 2020-10-01
+        end_date: 2021-07-13
+        summary: >-
+          Conception, mechatronic design and control of a 4-DOF robotic arm for terrain sample
+          collection on the MORPHEUS rover (MAPLE-X project); Master's thesis activity.
+
+    Skills:
+      - name: Robotics software
+        level: Expert
+        icon: fa-solid fa-robot
+        keywords: "ROS 2, modern C++, Python, OpenCV, PyTorch, sensor fusion, SLAM, state estimation"
+
+      - name: Embedded systems
+        level: Advanced
+        icon: fa-solid fa-microchip
+        keywords: "C, FreeRTOS, microcontroller platforms, firmware, telemetry"
+
+      - name: Mechatronic design
+        level: Advanced
+        icon: fa-solid fa-gears
+        keywords: "mechanical CAD, finite-element analysis, rapid prototyping"
+
+      - name: Development workflow
+        level: Expert
+        icon: fa-solid fa-terminal
+        keywords: "Linux, Docker, Git, CMake"
+
+    Languages:
+      - name: Italian
+        summary: "Native speaker"
+
+      - name: English
+        summary: "C1"
+
+      - name: Spanish
+        summary: "B2"

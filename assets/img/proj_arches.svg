@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="576" viewBox="0 0 1024 576">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#311b92"/>
+      <stop offset="100%" stop-color="#4527a0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="576" fill="url(#bg)"/>
+  <circle cx="400" cy="240" r="70" fill="none" stroke="#ffffff" stroke-width="6"/>
+  <circle cx="624" cy="240" r="70" fill="none" stroke="#ffffff" stroke-width="6" stroke-dasharray="14 10"/>
+  <text x="367" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#ffffff">🤖</text>
+  <text x="590" y="250" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="34" fill="#ffffff">🤖</text>
+  <line x1="470" y1="240" x2="554" y2="240" stroke="#ffffff" stroke-width="4" stroke-dasharray="12 10"/>
+  <polygon points="512,210 512,270" fill="#ffffff"/>
+  <text x="512" y="420" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff" text-anchor="middle">ARCHES</text>
+  <text x="512" y="465" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#d1c4e9" text-anchor="middle">Multi-robot planetary exploration</text>
+</svg>
