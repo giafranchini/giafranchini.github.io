@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://giafranchini.github.io/sitemap.xml

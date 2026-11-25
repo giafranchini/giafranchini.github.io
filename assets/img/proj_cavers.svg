@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="576" viewBox="0 0 1024 576">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#006064"/>
+      <stop offset="100%" stop-color="#00363a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="576" fill="url(#bg)"/>
+  <path d="M0 576 Q 260 470 512 576 T 1024 576 Z" fill="#0097a7"/>
+  <path d="M200 0 L 230 120 Q 180 200 260 260 T 300 380 L 360 400 L 340 300 Q 400 220 380 140 Z" fill="#004d54" opacity="0.85"/>
+  <path d="M760 0 L 800 140 Q 750 220 830 290 T 860 400 L 920 380 L 890 260 Q 950 180 920 90 Z" fill="#004d54" opacity="0.85"/>
+  <text x="512" y="480" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff" text-anchor="middle">CAVERS</text>
+  <text x="512" y="520" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" fill="#b2ebf2" text-anchor="middle">Multimodal SLAM dataset · natural karstic cave</text>
+</svg>
