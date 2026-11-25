@@ -2,13 +2,15 @@ cv:
   name: Giacomo Franchini
   label: Robotics and Aerospace Engineer
   email: giacomofranchini1995@gmail.com
-  location: Turin, Italy
+  location: Málaga, Spain
   image: ""
   summary: >-
-    Robotics and aerospace engineer with expertise in mechatronic design, embedded systems,
-    sensor integration, and autonomous robotic navigation. PhD cum laude in Electrical,
-    Electronics and Communication Engineering at the Polytechnic of Turin, researching mobility
-    and state estimation for planetary exploration rovers.
+    Robotics engineer with expertise in mechatronic design, embedded systems,
+    sensor integration, and autonomous robotic navigation. I have obtained the
+    PhD cum laude in Electrical, Electronics and Communication Engineering at
+    the Polytechnic of Turin, Italy. My research focuses on autonomous robotic
+    systems for exploration of challenging environments, such as planetary
+    surfaces and underground environments.
 
   social_networks:
     - network: GitHub
@@ -22,12 +24,13 @@ cv:
         location: Turin, Italy
         url: https://www.polito.it/
         area: Electrical, Electronics and Communication Engineering
-        studyType: PhD (cum laude)
+        studyType: PhD cum laude
         start_date: 2022-11-01
         end_date: 2026-09-23
         highlights:
-          - Research on mobility and state estimation for planetary exploration rovers at the Interdepartmental Centre for Service Robotics (PIC4SeR).
-          - Supervisor: Prof. Marcello Chiaberge. Thesis defended on 23/09/2026.
+          - "Thesis title: 'Enabling the Next Generation of Lunar Exploration: Autonomy and Perception for Robotic Surface Navigation'"
+          - "Research center: Polytechnic of Turin Interdepartmental Centre for Service Robotics (PIC4SeR)."
+          - "Supervisor: Prof. Marcello Chiaberge."
 
       - institution: University of Padua
         location: Padua, Italy
